@@ -1,0 +1,27 @@
+body {
+    font-family: Arial, sans-serif;
+    margin: 20px;
+  }
+  
+  h2 {
+    margin-bottom: 20px;
+  }
+  
+  div {
+    margin-bottom: 30px;
+  }
+  
+  input[type="text"] {
+    padding: 8px;
+    margin-right: 10px;
+  }
+  
+  button {
+    padding: 8px 15px;
+    cursor: pointer;
+  }
+  
+  p {
+    margin-top: 10px;
+  }
+  
